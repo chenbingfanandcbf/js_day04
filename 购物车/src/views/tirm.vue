@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2>限时特惠</h2>
+        <h2>限时特价</h2>
     </div>
 </template>
 
