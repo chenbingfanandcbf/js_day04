@@ -11,6 +11,7 @@
     <img :src="image" />
   </van-swipe-item>
 </van-swipe>
+11111
     </div>
 </template>
 <script>
